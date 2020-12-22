@@ -16,6 +16,7 @@ Network Fundamentals
 Practical System and Network Administration 
 Cloud System Administration 
 Site Reliability Engineering Concepts
+Distributed Systems
 Ansible 
 Terraform 
 </pre>
@@ -51,6 +52,8 @@ Network Diagnostic Tools
 Docker Certified Associate
 AWS Certified Developer Associate 
 Systems Security Certified Professional (SSCP) 
+Red Hat Certified Specialist in Ansible Automation
+Red Hat Certified Specialist in OpenShift Administration
 Cybersecurity Analyst 
 Certified Kubernetes Administrator 
 Certified Kubernetes Application Developer 
