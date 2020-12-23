@@ -1,6 +1,6 @@
 # monitoring-sre-prep-2021
 
-##### Coding & Software Development
+##### Coding & Software Development - Beginners Level 
 <pre>
 C 
 C++
@@ -10,7 +10,21 @@ Go Systems Programming
 Developing Scalable Apps in Python 
 </pre>
 
-##### System Administration and Automation
+##### Data Structures - Beginners Level 
+Intro 
+Complexity Analysis 
+Memory 
+Big O Notation 
+Logarithm 
+Arrays 
+Linked Lists 
+Hash Tables
+Stacks and Queues 
+Strings 
+Graphs 
+Trees
+
+##### System Administration and Automation - Intermediate Level 
 <pre>
 Network Fundamentals
 Practical System and Network Administration 
@@ -21,7 +35,7 @@ Ansible
 Terraform 
 </pre>
 
-##### Scalable System Design
+##### Scalable System Design - Intermediate Level 
 <pre>
 Performance 
 Latency 
@@ -39,7 +53,7 @@ Cache
 Security 
 </pre>
 
-##### System Troubleshooting
+##### System Troubleshooting - Intermediate Level 
 <pre>
 Linux Internals 
 Debugging 
@@ -47,7 +61,7 @@ Performance Tuning
 Network Diagnostic Tools
 </pre>
 
-##### Certification Knowledge 
+##### Certification Knowledge - Beginners Level 
 <pre>
 Docker Certified Associate
 AWS Certified Developer Associate 
@@ -70,7 +84,7 @@ Certified Information Systems Security Professional
 AWS Certifed Security - Speciality 
 </pre>
 
-##### Tools 
+##### Tools - Advanced Level on select tools and Beginners Level for the rest
 <pre>
 Git
 Gitlab
