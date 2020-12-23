@@ -86,17 +86,17 @@ Certified Information Systems Security Professional
 AWS Certifed Security - Speciality 
 </pre>
 
-##### Tools - Advanced Level on select tools and Beginners Level for the rest
+##### Tools - Beginners Level, Advanced Level (only those in italics)
 <pre>
 Git
-Gitlab
+*Gitlab*
 Bitbucket
 Jira
-Splunk 
-Elasticsearch 
+*Splunk*
+*Elasticsearch* 
 Nagios
-Prometheus 
-Grafana
+*Prometheus* 
+*Grafana*
 AppDynamics
 DataDog
 NewRelic
