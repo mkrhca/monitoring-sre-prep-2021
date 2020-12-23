@@ -86,7 +86,7 @@ Certified Information Systems Security Professional
 AWS Certifed Security - Speciality 
 </pre>
 
-##### Tools - Beginners Level, Advanced Level (only those in italics)
+##### Tools - Beginners Level, Advanced Level (only those in astericks)
 <pre>
 Git
 *Gitlab*
