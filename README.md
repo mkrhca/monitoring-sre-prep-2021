@@ -11,6 +11,7 @@ Developing Scalable Apps in Python
 </pre>
 
 ##### Data Structures - Beginners Level 
+<pre>
 Intro 
 Complexity Analysis 
 Memory 
@@ -23,6 +24,7 @@ Stacks and Queues
 Strings 
 Graphs 
 Trees
+</pre>
 
 ##### System Administration and Automation - Intermediate Level 
 <pre>
